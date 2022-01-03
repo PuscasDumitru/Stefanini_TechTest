@@ -4,8 +4,11 @@ Let's assume we need to write a simple ordering system for a café.
 For the system we identified classes with the following fields (feel free to add additional, if needed):
 
 **Cook**: name
+
 **Ingredient**: name, price
+
 **Dish**: name, description, price, estimated cooking time (int minutes)
+
  
 1. Menu: on application start, show list of all dishes: name, description, contents (comma-
     separated list of ingredients), price (sum of all ingredients + 20%).
