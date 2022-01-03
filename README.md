@@ -1,4 +1,4 @@
-# Stefanini_TechTest
+# Technical Test Stefanini
 
 Let's assume we need to write a simple ordering system for a café.
 For the system we identified classes with the following fields (feel free to add additional, if needed):
